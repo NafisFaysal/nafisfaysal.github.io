@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nafis - Software Engineer</title>
-    <link>https://nafisfaysal.dev/</link>
+    <link>https://nafis.github.io/</link>
     <description>Recent content on Nafis - Software Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://nafisfaysal.dev/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nafis.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
